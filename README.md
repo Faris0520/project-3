@@ -4,4 +4,4 @@ https://random-image-search.vercel.app/
 
 This website is useful for searching for images that have been captured by people
 
-![](https://i.imgur.com/jtitZI9.png)
+![](https://i.imgur.com/KJV0pYH.png)
